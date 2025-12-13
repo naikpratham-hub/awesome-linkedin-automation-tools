@@ -2,7 +2,7 @@
 A curated list of LinkedIn automation, scraping, enrichment, and lead-gen tools.
 
 # Awesome LinkedIn Automation Tools
-A curated collection of reliable tools for LinkedIn automation, data extraction, enrichment, and outbound workflow optimization.
+A curated collection of reliable tools for LinkedIn automation, data extraction, enrichment, and outbound workflow optimisation.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -15,6 +15,7 @@ A curated collection of reliable tools for LinkedIn automation, data extraction,
 - [Phantombuster](https://phantombuster.com) — Automated scrapers and LinkedIn workflows.
 - [Zopto](https://zopto.com) — Cloud-based outreach automation.
 - [Octopus CRM](https://octopuscrm.io) — CRM-oriented automation and engagement system.
+- [OpenOutreach](https://github.com/eracle/OpenOutreach) — An open-source LinkedIn automation tool for automated networking and agentic marketing.
 
 ---
 
