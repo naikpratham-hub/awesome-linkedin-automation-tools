@@ -22,6 +22,7 @@ A curated collection of reliable tools for LinkedIn automation, data extraction,
 
 - [Apify](https://apify.com)
 - [CaptainData](https://captaindata.co)
+- [Scrupp](https://scrupp.com) — Chrome extension that extracts verified emails, phones, and enriched lead data from LinkedIn Sales Navigator; 2,500 leads per export, 95%+ email deliverability.
 - [TexAu](https://texau.com)
 
 ---
