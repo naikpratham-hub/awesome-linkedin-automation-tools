@@ -15,6 +15,7 @@ A curated collection of reliable tools for LinkedIn automation, data extraction,
 - [Phantombuster](https://phantombuster.com) — Automated scrapers and LinkedIn workflows.
 - [Zopto](https://zopto.com) — Cloud-based outreach automation.
 - [Octopus CRM](https://octopuscrm.io) — CRM-oriented automation and engagement system.
+- [Warmerly](https://warmerly.com) — Cold outreach across email and LinkedIn from one workspace, with mailbox warmup.
 
 ---
 
