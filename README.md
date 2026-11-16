@@ -31,6 +31,7 @@ A curated collection of reliable tools for LinkedIn automation, data extraction,
 - [Apollo](https://apollo.io)
 - [Snov](https://snov.io)
 - [Dropcontact](https://dropcontact.com)
+- [Datacircle](https://datacircle.dev) — We benchmark all the GTM APIs and we put the results on our website.
 
 ---
 
